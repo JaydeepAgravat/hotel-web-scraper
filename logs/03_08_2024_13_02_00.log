@@ -1,0 +1,119 @@
+[2024-08-03 13:02:00,678] Chattanooga, TN, United States - INFO - scraper is running for Chattanooga, TN, United States : ['03/08/2024']
+[2024-08-03 13:02:00,678] date_pairs - INFO - succeed to create date pairs (('03/08/2024', '04/08/2024'),)
+[2024-08-03 13:02:18,748] driver - INFO - succeed to load driver
+[2024-08-03 13:02:19,621] hotels_page - INFO - succeed to enter destination
+[2024-08-03 13:02:20,726] hotels_page - INFO - succeed to enter dates
+[2024-08-03 13:02:20,841] hotels_page - INFO - succeed to search hotels
+[2024-08-03 13:02:25,919] hotels_page - INFO - wait for 5 seconds to load cookie button
+[2024-08-03 13:02:34,153] hotels_page - INFO - succeed to click on cookie button
+[2024-08-03 13:02:34,441] hotels_count - INFO - succeed to calculate total hotels 18
+[2024-08-03 13:02:45,181] hotels_count - INFO - succeed to calculate available hotels 16
+[2024-08-03 13:02:45,222] hotels_detail - INFO - Scrolled to top of the hotels page
+[2024-08-03 13:02:47,236] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:02:47,236] hotels_detail - INFO - Selected hotel card at index: 0
+[2024-08-03 13:02:47,586] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:02:51,659] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:02:51,741] hotels_detail - INFO - Scraped hotel: Hotel Indigo: Chattanooga - Downtown, rooms: ['1 King Bed Standard', 'Standard Room', '1 King Bed 1 Bedroom Suite'], prices: ['15,346', '18,188', '19,406']
+[2024-08-03 13:02:51,965] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:02:56,181] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:02:56,181] hotels_detail - INFO - Selected hotel card at index: 1
+[2024-08-03 13:02:56,869] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:03:00,581] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:03:00,732] hotels_detail - INFO - Scraped hotel: Staybridge Suites: Chattanooga Dwtn - Conv Ctnr, rooms: ['1 Queen Studio Suite Sofa Bed', '1 King Suite', 'Standard Suite', '2 Double Suite Sofa Bed', '2 Bedroom Suite'], prices: ['14,632', '15,427', '15,427', '16,223', '24,970']
+[2024-08-03 13:03:00,971] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:03:05,559] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:03:05,560] hotels_detail - INFO - Selected hotel card at index: 2
+[2024-08-03 13:03:05,942] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:03:09,337] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:03:09,445] hotels_detail - INFO - Scraped hotel: Holiday Inn & Suites: Chattanooga Downtown, rooms: ['Standard Room', '1 King Bed Standard Sofa Bed', '2 Queen Beds Standard', '2 Queen Beds Standard City View'], prices: ['14,235', '14,632', '15,427', '15,825']
+[2024-08-03 13:03:09,753] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:03:15,423] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:03:15,423] hotels_detail - INFO - Selected hotel card at index: 3
+[2024-08-03 13:03:16,347] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:03:20,731] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:03:20,767] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga Downtown, rooms: ['1 King Suite'], prices: ['16,223']
+[2024-08-03 13:03:21,068] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:03:26,925] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:03:26,925] hotels_detail - INFO - Selected hotel card at index: 4
+[2024-08-03 13:03:27,437] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:03:30,854] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:03:31,270] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga-Lookout Mtn, rooms: ['1 King Standard', 'Standard Room', '1 King Bed Suite Wet Bar Sofa Bed', '1 King Suite Sofa Bed', 'Specialty Room', '1 King Bed Standard Corner Room', '2 Queen Standard'], prices: ['12,247', '12,247', '13,042', '13,042', '13,439', '13,837', '13,837']
+[2024-08-03 13:03:31,525] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:03:37,995] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:03:37,996] hotels_detail - INFO - Selected hotel card at index: 5
+[2024-08-03 13:03:38,438] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:03:45,563] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:03:45,754] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga-Hixson, rooms: ['1 King Standard', '1 King Suite', '2 Queen Standard', '2 Queen Suite', 'Standard Room'], prices: ['11,054', '11,451', '11,849', '13,042', '14,235']
+[2024-08-03 13:03:46,122] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:03:54,775] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:03:54,775] hotels_detail - INFO - Selected hotel card at index: 6
+[2024-08-03 13:03:55,241] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:04:03,422] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:04:03,578] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga (East Ridge), rooms: ['1 King Bed Standard', '1 Queen Bed Standard With Sleeper Sofa', '2 Queen Beds Standard', '1 King Bed Suite', 'Standard Room'], prices: ['9,463', '10,258', '10,258', '11,451', '11,451']
+[2024-08-03 13:04:03,924] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:04:13,548] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:04:13,548] hotels_detail - INFO - Selected hotel card at index: 7
+[2024-08-03 13:04:13,940] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:04:23,802] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:04:24,073] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Chattanooga - East Ridge, rooms: ['1 Queen Studio Suite', '1 King Studio Suite', 'Standard Suite', 'One Bedroom Suite', '2 Queen Studio Suite', 'Premium Suite'], prices: ['8,509', '9,304', '9,304', '10,497', '11,690', '11,690']
+[2024-08-03 13:04:24,498] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:04:35,001] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:04:35,002] hotels_detail - INFO - Selected hotel card at index: 8
+[2024-08-03 13:04:35,422] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:04:46,257] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:04:46,443] hotels_detail - INFO - Scraped hotel: Staybridge Suites: Chattanooga-Hamilton Place, rooms: ['1 Queen Studio Suite Kitchen Sofa Bed', 'Studio Suite', '1 King 1 Bdrm Suite Living Kitchen Areas'], prices: ['10,179', '10,179', '11,769']
+[2024-08-03 13:04:46,773] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:04:59,988] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:05:10,354] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:05:10,354] hotels_detail - INFO - Selected hotel card at index: 9
+[2024-08-03 13:05:10,861] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:05:14,320] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:05:14,468] hotels_detail - INFO - Scraped hotel: avid hotels: Chattanooga South - Ringgold, rooms: ['1 King Standard', '2 Queen Standard', 'Standard Room'], prices: ['8,668', '8,668', '9,066']
+[2024-08-03 13:05:14,851] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:05:40,722] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:05:42,753] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:05:42,754] hotels_detail - INFO - Selected hotel card at index: 10
+[2024-08-03 13:05:43,257] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:05:46,781] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:05:47,136] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Ooltewah Springs-Chattanooga, rooms: ['2 Queen Standard', '1 King Suite', '2 Queen Suite', 'STANDARD ROOM'], prices: ['10,258', '13,439', '15,030', '18,211']
+[2024-08-03 13:05:48,588] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:06:06,662] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:06:23,539] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:06:23,540] hotels_detail - INFO - Selected hotel card at index: 11
+[2024-08-03 13:06:24,421] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:06:29,406] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:06:29,943] hotels_detail - INFO - Scraped hotel: Holiday Inn Express: Ringgold (Chattanooga Area), rooms: ['1 King Bed Standard', '2 Queen Beds Standard', 'Standard Room'], prices: ['10,099', '10,099', '10,099']
+[2024-08-03 13:06:30,451] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:06:52,727] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:07:13,369] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:07:13,370] hotels_detail - INFO - Selected hotel card at index: 12
+[2024-08-03 13:07:14,175] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:07:20,734] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:07:21,452] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Kimball, rooms: ['1 King Standard', '2 Queen Standard', 'Standard Room', '1 King Suite Additional Living Area'], prices: ['11,451', '11,849', '12,644', '13,439']
+[2024-08-03 13:07:22,032] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:07:49,040] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:08:12,783] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:08:12,783] hotels_detail - INFO - Selected hotel card at index: 13
+[2024-08-03 13:08:13,628] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:08:18,890] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:08:19,830] hotels_detail - INFO - Scraped hotel: Holiday Inn: Cleveland, rooms: ['1 King Bed Standard Sofa Bed', '1 King Bed Standard With Trundle Bed', '2 Queen Beds Standard', 'STANDARD ROOM', '1 King Bed Suite With Sofa Bed', '1 King Bed 1 Bdrm Suite With Living Area'], prices: ['10,656', '11,451', '11,451', '11,849', '12,644', '13,837']
+[2024-08-03 13:08:21,737] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:08:49,861] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:09:14,347] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:09:14,347] hotels_detail - INFO - Selected hotel card at index: 14
+[2024-08-03 13:09:15,328] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:09:22,438] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:09:23,246] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Dalton - Market St, rooms: ['1 King Standard', '2 Queen Standard', '2 Queen Suite', '1 King Suite', 'Standard Room'], prices: ['11,849', '11,849', '13,439', '13,439', '13,439']
+[2024-08-03 13:09:25,326] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:09:56,132] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 13:10:25,837] hotels_detail - INFO - Loaded hotel cards, total cards found: 16
+[2024-08-03 13:10:25,839] hotels_detail - INFO - Selected hotel card at index: 15
+[2024-08-03 13:10:26,735] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:11:19,737] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:11:20,920] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Cleveland Northwest, rooms: ['1 King Bed Standard', '1 King Bed Standard Extra Floor Space', '2 Queen Beds Standard', '1 King Bed Suite Additional Living Area', '2 Queen Beds Suite Addl Living Area', '1 King Bed Suite Extra Floor Space', 'Standard Room', '2 Queen Beds 1 Bedroom Suite'], prices: ['11,849', '13,837', '13,837', '13,837', '14,235', '14,235', '14,235', '15,825']
+[2024-08-03 13:11:24,279] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:11:29,421] hotels_detail - INFO - Scrolled to bottom of the page for next hotel
+[2024-08-03 13:11:31,423] hotels_detail - INFO - Scraping completed, total hotels data collected: 72
+[2024-08-03 13:11:31,426] save - INFO - succeed to save csv file
+[2024-08-03 13:11:32,681] main - INFO - succeed to quit driver
+[2024-08-03 13:11:32,684] Chattanooga, TN, United States - INFO - scraper finished for Chattanooga, TN, United States

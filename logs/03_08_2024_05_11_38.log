@@ -1,0 +1,58 @@
+[2024-08-03 05:11:38,216] Auburn_Alabama_United_States - INFO - scraper is running for Auburn, Alabama, United States : ['03/08/2024']
+[2024-08-03 05:11:38,216] date_pairs - INFO - succeed to create date pairs (('03/08/2024', '04/08/2024'),)
+[2024-08-03 05:11:59,940] driver - INFO - succeed to load driver
+[2024-08-03 05:12:01,390] hotels_page - INFO - succeed to enter destination
+[2024-08-03 05:12:03,362] hotels_page - INFO - succeed to enter dates
+[2024-08-03 05:12:03,608] hotels_page - INFO - succeed to search hotels
+[2024-08-03 05:12:08,613] hotels_page - INFO - wait for 5 seconds to load cookie button
+[2024-08-03 05:12:20,324] hotels_page - INFO - succeed to click on cookie button
+[2024-08-03 05:12:20,674] hotels_count - INFO - succeed to calculate total hotels 7
+[2024-08-03 05:12:29,839] hotels_count - INFO - succeed to calculate available hotels 7
+[2024-08-03 05:12:29,882] hotels_detail - INFO - Scrolled to top of the hotels page
+[2024-08-03 05:12:31,907] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:12:31,907] hotels_detail - INFO - Selected hotel card at index: 0
+[2024-08-03 05:12:32,350] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:12:36,388] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:12:36,459] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Auburn, rooms: ['1 Queen Studio Suite', 'Studio Suite'], prices: ['13,042', '13,042']
+[2024-08-03 05:12:36,853] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:12:40,358] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:12:40,363] hotels_detail - INFO - Selected hotel card at index: 1
+[2024-08-03 05:12:41,108] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:12:47,023] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:12:47,125] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Auburn - University Area, rooms: ['1 King Bed Standard', '2 Queen Beds Standard', 'Standard Room'], prices: ['16,620', '17,416', '19,404']
+[2024-08-03 05:12:47,528] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:12:55,670] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:12:55,670] hotels_detail - INFO - Selected hotel card at index: 2
+[2024-08-03 05:12:56,194] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:13:01,773] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:13:01,922] hotels_detail - INFO - Scraped hotel: avid hotels: Auburn - University Area, rooms: ['1 King Bed Standard', 'Standard Room'], prices: ['15,030', '16,223']
+[2024-08-03 05:13:02,314] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:13:10,281] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:13:10,281] hotels_detail - INFO - Selected hotel card at index: 3
+[2024-08-03 05:13:11,952] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:13:29,152] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:13:30,167] hotels_detail - INFO - Scraped hotel: Staybridge Suites: Auburn – University Area, rooms: ['2 Queen Studio Suite Kitchen Area', 'Studio Suite', '1 Bedroom Suite Sofa Bed'], prices: ['24,970', '24,970', '26,561']
+[2024-08-03 05:13:36,902] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:13:40,662] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:13:40,662] hotels_detail - INFO - Selected hotel card at index: 4
+[2024-08-03 05:13:42,582] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:14:21,362] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:14:21,882] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Opelika Auburn, rooms: ['1 King Standard Walk In Shower', '2 Queen Standard', '1 Queen Ste Sofa Bed Living Area Wet Bar', 'Standard Room', '1 King Suite Sofa Bed Living Area', '1 Kng 1 Bdrm Ste Sofa Bed Walk In Shower'], prices: ['14,235', '15,030', '16,223', '16,620', '17,416', '19,801']
+[2024-08-03 05:14:23,335] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:14:29,206] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:14:29,207] hotels_detail - INFO - Selected hotel card at index: 5
+[2024-08-03 05:14:30,024] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:14:42,197] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:14:42,599] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Phenix City - Ft. Moore, rooms: ['1 King Standard', '2 Queen Standard', '1 King Suite Additional Living Sofa Bed', 'Standard Room'], prices: ['12,644', '13,439', '14,632', '15,030']
+[2024-08-03 05:14:43,146] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:14:56,704] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 05:14:56,704] hotels_detail - INFO - Selected hotel card at index: 6
+[2024-08-03 05:14:57,151] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:15:22,246] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:15:22,572] hotels_detail - INFO - Scraped hotel: Hotel Indigo: Columbus at Riverfront Place, rooms: ['1 King Bed Standard Minifridge', '1 King Bed Premium'], prices: ['19,801', '26,958']
+[2024-08-03 05:15:24,271] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:15:45,847] hotels_detail - INFO - Scrolled to bottom of the page for next hotel
+[2024-08-03 05:15:47,850] hotels_detail - INFO - Scraping completed, total hotels data collected: 22
+[2024-08-03 05:15:47,851] save - INFO - succeed to save csv file
+[2024-08-03 05:15:48,754] main - INFO - succeed to quit driver
+[2024-08-03 05:15:48,755] Auburn_Alabama_United_States - INFO - scraper finished for Auburn, Alabama, United States

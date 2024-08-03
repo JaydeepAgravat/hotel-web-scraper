@@ -1,0 +1,91 @@
+[2024-08-03 05:16:28,049] Baton Rouge, LA, USA - INFO - scraper is running for Baton Rouge, LA, USA : ['03/08/2024']
+[2024-08-03 05:16:28,050] date_pairs - INFO - succeed to create date pairs (('03/08/2024', '04/08/2024'),)
+[2024-08-03 05:16:49,628] driver - INFO - succeed to load driver
+[2024-08-03 05:16:51,505] hotels_page - INFO - succeed to enter destination
+[2024-08-03 05:16:53,006] hotels_page - INFO - succeed to enter dates
+[2024-08-03 05:16:53,196] hotels_page - INFO - succeed to search hotels
+[2024-08-03 05:16:58,201] hotels_page - INFO - wait for 5 seconds to load cookie button
+[2024-08-03 05:17:05,957] hotels_page - INFO - succeed to click on cookie button
+[2024-08-03 05:17:06,109] hotels_count - INFO - succeed to calculate total hotels 12
+[2024-08-03 05:17:16,367] hotels_count - INFO - succeed to calculate available hotels 12
+[2024-08-03 05:17:16,448] hotels_detail - INFO - Scrolled to top of the hotels page
+[2024-08-03 05:17:18,477] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:17:18,477] hotels_detail - INFO - Selected hotel card at index: 0
+[2024-08-03 05:17:19,168] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:17:24,079] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:17:24,288] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Baton Rouge - College Drive, rooms: ['1 Queen Studio Suite', '1 King Studio Suite', '2 Queen Studio Suite', '1 Bedroom Suite', 'Studio Suite'], prices: ['8,270', '8,827', '9,066', '9,861', '9,861']
+[2024-08-03 05:17:24,570] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:17:30,213] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:17:30,213] hotels_detail - INFO - Selected hotel card at index: 1
+[2024-08-03 05:17:36,514] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:17:40,106] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:17:40,477] hotels_detail - INFO - Scraped hotel: Hotel Indigo: Baton Rouge Downtown, rooms: ['1 Queen Standard', '2 Double Standard City View', '1 King Standard City View', 'Standard Room', '2 Double Standard River View', '1 King Standard River View'], prices: ['11,054', '11,849', '12,247', '12,247', '12,644', '13,042']
+[2024-08-03 05:17:40,814] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:17:46,576] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:17:46,594] hotels_detail - INFO - Selected hotel card at index: 2
+[2024-08-03 05:17:48,845] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:17:53,777] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:17:53,935] hotels_detail - INFO - Scraped hotel: Crowne Plaza: Executive Center Baton Rouge, rooms: ['1 King Standard', 'Standard Room', '2 Queen Premium Balcony'], prices: ['12,247', '12,247', '14,632']
+[2024-08-03 05:17:54,298] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:18:00,569] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:18:00,569] hotels_detail - INFO - Selected hotel card at index: 3
+[2024-08-03 05:18:00,992] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:18:07,710] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:18:08,283] hotels_detail - INFO - Scraped hotel: Holiday Inn: Baton Rouge College Drive I-10, rooms: ['1 King Standard', '1 King Standard Top Floor', '2 Queen Standard Non Smoking', 'Standard Room', '2 Queen Standard Top Floor', '1 King Premium', '1 King Suite', '1 King Premium Top Floor'], prices: ['10,258', '11,054', '11,054', '11,054', '11,451', '13,439', '13,837', '14,235']
+[2024-08-03 05:18:08,598] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:18:17,219] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:18:17,220] hotels_detail - INFO - Selected hotel card at index: 4
+[2024-08-03 05:18:17,891] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:18:28,291] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:18:28,908] hotels_detail - INFO - Scraped hotel: Holiday Inn: Baton Rouge-South, rooms: ['1 King Standard', 'Standard Room', '2 Queen Standard'], prices: ['8,668', '8,668', '9,463']
+[2024-08-03 05:18:29,363] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:18:40,553] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:18:40,553] hotels_detail - INFO - Selected hotel card at index: 5
+[2024-08-03 05:18:49,665] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:19:11,172] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:19:12,161] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Baton Rouge -Port Allen, rooms: ['1 King Bed Standard', '2 Queen Beds Standard', 'Standard Room', '2 Queen Beds Suite Sofa Bed', '1 King Bed Suite Sofa Bed', '2 Queen Suite Sofa Bed', '1 King Bed Suite'], prices: ['9,066', '9,066', '9,066', '9,861', '9,861', '10,656', '10,656']
+[2024-08-03 05:19:14,832] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:19:20,178] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:19:20,178] hotels_detail - INFO - Selected hotel card at index: 6
+[2024-08-03 05:19:22,638] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:19:54,882] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:19:55,932] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Baton Rouge East, rooms: ['1 King Standard', '2 Queen Standard', 'Standard Room', '2 Queen Suite', '1 King Suite'], prices: ['9,463', '10,418', '10,656', '11,054', '11,451']
+[2024-08-03 05:19:57,323] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:20:00,654] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:20:00,655] hotels_detail - INFO - Selected hotel card at index: 7
+[2024-08-03 05:20:01,188] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:20:18,680] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:20:19,393] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Baton Rouge North, rooms: ['1 King Bed Standard', '1 King Bed Standard Sofa Bed', '2 Queen Beds Standard', 'Standard Room', '1 King Bed Suite Wet Bar Sofa Bed', '2 Queen Beds Suite', '1 King Bed Suite Sofa Bed'], prices: ['11,451', '11,451', '11,451', '12,247', '13,042', '13,837', '13,837']
+[2024-08-03 05:20:19,968] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:20:38,549] hotels_detail - INFO - Loaded hotel cards, total cards found: 10
+[2024-08-03 05:20:38,549] hotels_detail - INFO - Selected hotel card at index: 8
+[2024-08-03 05:20:39,468] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:21:00,375] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:21:17,722] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Gonzales, rooms: ['1 King Bed Standard', '2 Queen Beds Standard', 'Standard Room', '1 King Bed Suite', '2 Queen Beds Suite'], prices: ['10,068', '10,068', '10,068', '10,880', '10,880']
+[2024-08-03 05:21:18,552] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:21:22,451] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 05:21:40,181] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:21:40,182] hotels_detail - INFO - Selected hotel card at index: 9
+[2024-08-03 05:21:40,815] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:21:45,403] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:21:46,236] hotels_detail - INFO - Scraped hotel: Holiday Inn: Gonzales, rooms: ['2 Queen Standard Walk In Shower', 'Standard Room', '1 King Standard Walk In Shower', '1 King Standard Additional Dining Area', '2 Queen Standard Additional Dining Area'], prices: ['9,463', '9,463', '10,258', '10,258', '10,258']
+[2024-08-03 05:21:47,730] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:22:09,851] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 05:22:32,179] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:22:32,180] hotels_detail - INFO - Selected hotel card at index: 10
+[2024-08-03 05:22:32,857] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:22:38,696] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:22:39,369] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Gonzales - Baton Rouge Area, rooms: ['1 Queen Studio Suite', '2 Queen Studio Suite', '1 King Studio Suite', 'Studio Suite'], prices: ['9,463', '10,258', '10,656', '11,451']
+[2024-08-03 05:22:39,963] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:23:04,842] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 05:23:29,915] hotels_detail - INFO - Loaded hotel cards, total cards found: 12
+[2024-08-03 05:23:29,915] hotels_detail - INFO - Selected hotel card at index: 11
+[2024-08-03 05:23:30,574] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:23:39,489] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:23:40,247] hotels_detail - INFO - Scraped hotel: Holiday Inn Express: Donaldsonville, rooms: ['1 King Bed Standard', '2 Queen Beds Standard', '2 Queen Beds Suite Sofa Bed', '1 King Bed Suite Sofa Bed', 'Standard Room'], prices: ['10,258', '10,258', '11,451', '11,451', '16,223']
+[2024-08-03 05:24:13,051] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:24:24,548] hotels_detail - INFO - Scrolled to bottom of the page for next hotel
+[2024-08-03 05:24:26,551] hotels_detail - INFO - Scraping completed, total hotels data collected: 63
+[2024-08-03 05:24:26,560] save - INFO - succeed to save csv file
+[2024-08-03 05:24:27,909] main - INFO - succeed to quit driver
+[2024-08-03 05:24:27,918] Baton Rouge, LA, USA - INFO - scraper finished for Baton Rouge, LA, USA

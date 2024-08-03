@@ -1,0 +1,109 @@
+[2024-08-03 05:24:55,813] Louisville, KY, United States - INFO - scraper is running for Louisville, KY, United States : ['03/08/2024']
+[2024-08-03 05:24:55,814] date_pairs - INFO - succeed to create date pairs (('03/08/2024', '04/08/2024'),)
+[2024-08-03 05:25:26,032] driver - INFO - succeed to load driver
+[2024-08-03 05:25:29,123] hotels_page - INFO - succeed to enter destination
+[2024-08-03 05:25:30,957] hotels_page - INFO - succeed to enter dates
+[2024-08-03 05:25:34,331] hotels_page - INFO - succeed to search hotels
+[2024-08-03 05:25:39,337] hotels_page - INFO - wait for 5 seconds to load cookie button
+[2024-08-03 05:26:06,002] hotels_page - INFO - succeed to click on cookie button
+[2024-08-03 05:26:06,346] hotels_count - INFO - succeed to calculate total hotels 21
+[2024-08-03 05:26:22,810] hotels_count - INFO - succeed to calculate available hotels 21
+[2024-08-03 05:26:22,823] hotels_detail - INFO - Scrolled to top of the hotels page
+[2024-08-03 05:26:24,844] hotels_detail - INFO - Loaded hotel cards, total cards found: 21
+[2024-08-03 05:26:24,845] hotels_detail - INFO - Selected hotel card at index: 0
+[2024-08-03 05:26:25,397] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:26:29,652] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:26:29,782] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Louisville Downtown, rooms: ['Standard Room', '2 Queen Beds Standard'], prices: ['15,825', '16,620']
+[2024-08-03 05:26:30,175] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:26:35,597] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:26:35,597] hotels_detail - INFO - Selected hotel card at index: 1
+[2024-08-03 05:26:36,249] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:26:40,890] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:26:41,211] hotels_detail - INFO - Scraped hotel: Holiday Inn: Louisville Downtown, rooms: ['1 Queen Bed Standard', '1 King Bed Standard', '1 Queen Bed Premium', 'Standard Room'], prices: ['13,837', '14,235', '15,825', '15,825']
+[2024-08-03 05:26:41,664] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:26:47,845] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:26:47,845] hotels_detail - INFO - Selected hotel card at index: 2
+[2024-08-03 05:26:48,377] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:26:54,491] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:26:54,709] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Louisville - NE Downtown Area, rooms: ['1 Queen Studio Suite', '1 King Studio Suite', '1 Queen 1 Bedroom Suite', '2 Queen Studio Suite', 'Studio Suite'], prices: ['10,258', '12,644', '12,644', '13,439', '13,439']
+[2024-08-03 05:26:55,013] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:27:05,546] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:27:05,546] hotels_detail - INFO - Selected hotel card at index: 3
+[2024-08-03 05:27:14,252] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:27:26,745] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:27:27,032] hotels_detail - INFO - Scraped hotel: Holiday Inn: Louisville Airport - Fair/Expo, rooms: ['1 King Standard', 'STANDARD ROOM', '2 Queen Standard`'], prices: ['15,030', '15,825', '18,211']
+[2024-08-03 05:27:27,621] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:27:31,738] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:27:31,740] hotels_detail - INFO - Selected hotel card at index: 4
+[2024-08-03 05:27:40,901] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:27:44,257] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:27:44,536] hotels_detail - INFO - Scraped hotel: Staybridge Suites: Louisville - Expo Center, rooms: ['1 King Bed Studio Suite With Kitchenette', '1 King Bed 1 Bedroom Suite Sofa Bed', '2 Queen Beds Studio Suite Sofa Bed', 'Studio Suite'], prices: ['14,235', '15,030', '16,620', '19,801']
+[2024-08-03 05:27:52,629] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:27:57,220] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:27:57,220] hotels_detail - INFO - Selected hotel card at index: 5
+[2024-08-03 05:27:58,149] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:28:09,670] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:28:09,832] hotels_detail - INFO - Scraped hotel: Holiday Inn Express: New Albany - Louisville NW, rooms: ['1 King Standard', 'Standard Room'], prices: ['9,463', '11,054']
+[2024-08-03 05:28:10,186] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:28:23,415] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:28:23,416] hotels_detail - INFO - Selected hotel card at index: 6
+[2024-08-03 05:28:34,360] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:28:37,952] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:28:52,267] hotels_detail - INFO - Scraped hotel: Crowne Plaza: Louisville Airport Expo Ctr, rooms: ['2 Queen Beds Standard', '2 Queen Beds Standard Balcony', '1 King Bed Premium', 'Standard Room', '1 King Bed Junior Suite Sofa Bed', 'Premium Room', '2 Queen Beds One Bedroom Suite', '1 King Bed Junior Presidential Suite', '1 King Bed Presidential Suite'], prices: ['15,030', '17,416', '18,211', '18,211', '22,982', '22,982', '26,958', '34,911', '54,791']
+[2024-08-03 05:28:53,501] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:28:58,499] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:28:58,499] hotels_detail - INFO - Selected hotel card at index: 7
+[2024-08-03 05:29:15,836] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:29:20,235] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:29:21,074] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Louisville North, rooms: ['1 Queen Bed Studio Suite', 'Studio Suite', '2 Queen Beds Studio Suite', '1 King Bed One Bedroom Suite', '2 Double Beds 1 Bedroom Suite'], prices: ['11,054', '11,054', '11,849', '13,439', '14,235']
+[2024-08-03 05:29:21,488] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:29:38,811] hotels_detail - INFO - Loaded hotel cards, total cards found: 10
+[2024-08-03 05:29:38,812] hotels_detail - INFO - Selected hotel card at index: 8
+[2024-08-03 05:29:40,952] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:29:58,621] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:29:58,901] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Louisville Airport, rooms: ['1 Queen Bed Studio Suite', 'Studio Suite', '1 Queen Bed One Bedroom Suite'], prices: ['8,668', '9,463', '9,861']
+[2024-08-03 05:30:01,605] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:30:24,402] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 05:30:45,678] hotels_detail - INFO - Loaded hotel cards, total cards found: 21
+[2024-08-03 05:30:45,679] hotels_detail - INFO - Selected hotel card at index: 9
+[2024-08-03 05:30:47,273] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:30:53,981] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:31:15,784] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Louisville N - Jeffersonville, rooms: ['2 Queen Standard', '1 King Suite', '2 Queen Suite Sofa Bed', 'Standard Room'], prices: ['13,397', '13,803', '14,615', '14,615']
+[2024-08-03 05:31:16,903] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:31:24,098] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 05:31:57,674] hotels_detail - INFO - Loaded hotel cards, total cards found: 21
+[2024-08-03 05:31:57,675] hotels_detail - INFO - Selected hotel card at index: 10
+[2024-08-03 05:32:00,675] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:32:08,374] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 05:32:09,075] hotels_detail - INFO - Scraped hotel: Holiday Inn Express: Louisville Airport Expo Center, rooms: ['1 King Bed Standard', '2 Queen Beds Standard', 'Standard Room'], prices: ['13,439', '14,235', '14,235']
+[2024-08-03 05:32:09,851] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 05:32:58,763] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 05:33:41,025] hotels_detail - INFO - Loaded hotel cards, total cards found: 20
+[2024-08-03 05:33:41,034] hotels_detail - INFO - Selected hotel card at index: 11
+[2024-08-03 05:33:43,831] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 05:34:39,891] hotels_detail - ERROR - failed to scrape room page elements
+[2024-08-03 05:34:39,891] hotels_detail - ERROR - error occurred in python script name [/home/runner/hotel-web-scraper/src/scraper/hotels_detail.py] line number [43] error message [Message: script timeout
+  (Session info: chrome=114.0.5735.106)
+Stacktrace:
+#0 0x59d8490664e3 <unknown>
+#1 0x59d848d95b00 <unknown>
+#2 0x59d848e09f67 <unknown>
+#3 0x59d848df1012 <unknown>
+#4 0x59d848e0930e <unknown>
+#5 0x59d848df0de3 <unknown>
+#6 0x59d848dc62dd <unknown>
+#7 0x59d848dc734e <unknown>
+#8 0x59d8490263e4 <unknown>
+#9 0x59d84902a3d7 <unknown>
+#10 0x59d849034b20 <unknown>
+#11 0x59d84902b023 <unknown>
+#12 0x59d848ff91aa <unknown>
+#13 0x59d84904f6b8 <unknown>
+#14 0x59d84904f847 <unknown>
+#15 0x59d84905f243 <unknown>
+#16 0x78b591d50e24 start_thread
+]
+[2024-08-03 05:34:39,891] hotels_detail - ERROR - fetch room webpage data unsuccessful
+[2024-08-03 05:34:39,892] save - INFO - succeed to save csv file
+[2024-08-03 05:34:41,413] main - INFO - succeed to quit driver
+[2024-08-03 05:34:41,419] Louisville, KY, United States - INFO - scraper finished for Louisville, KY, United States

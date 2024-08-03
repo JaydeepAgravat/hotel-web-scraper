@@ -1,0 +1,57 @@
+[2024-08-03 13:11:50,056] College Station, TX, United States - INFO - scraper is running for College Station, TX, United States : ['03/08/2024']
+[2024-08-03 13:11:50,056] date_pairs - INFO - succeed to create date pairs (('03/08/2024', '04/08/2024'),)
+[2024-08-03 13:12:01,225] driver - INFO - succeed to load driver
+[2024-08-03 13:12:02,128] hotels_page - INFO - succeed to enter destination
+[2024-08-03 13:12:02,875] hotels_page - INFO - succeed to enter dates
+[2024-08-03 13:12:03,066] hotels_page - INFO - succeed to search hotels
+[2024-08-03 13:12:08,071] hotels_page - INFO - wait for 5 seconds to load cookie button
+[2024-08-03 13:12:15,544] hotels_page - INFO - succeed to click on cookie button
+[2024-08-03 13:12:15,636] hotels_count - INFO - succeed to calculate total hotels 7
+[2024-08-03 13:12:24,727] hotels_count - INFO - succeed to calculate available hotels 7
+[2024-08-03 13:12:24,751] hotels_detail - INFO - Scrolled to top of the hotels page
+[2024-08-03 13:12:26,763] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:12:26,763] hotels_detail - INFO - Selected hotel card at index: 0
+[2024-08-03 13:12:26,935] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:12:30,953] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:12:31,223] hotels_detail - INFO - Scraped hotel: Aggieland Boutique Hotel, rooms: ['1 King Bed Standard Walk In Shower', '1 King Bed And 1 Bunk Bed Premium', '2 Queen Beds Standard Bath Shower Combo', '2 Queen Beds Standard Walk In Shower', 'Premium Room', '1 King Bed 1 Bunk Bed Kyle Field View', '2 Queen Beds Premium Kyle Field View', 'Standard Room'], prices: ['7,873', '8,270', '8,270', '8,270', '8,270', '8,668', '8,668', '8,668']
+[2024-08-03 13:12:31,459] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:12:34,521] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:12:34,521] hotels_detail - INFO - Selected hotel card at index: 1
+[2024-08-03 13:12:34,741] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:12:38,835] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:12:38,940] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: College Station, rooms: ['1 King Standard', '2 Queen Standard', '1 Bedroom Suite Sofa Bed', 'Standard Room', '2 Queen Suite Extra Floor Space Sofa Bed'], prices: ['7,873', '9,463', '10,656', '11,054', '11,451']
+[2024-08-03 13:12:39,225] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:12:43,048] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:12:43,048] hotels_detail - INFO - Selected hotel card at index: 2
+[2024-08-03 13:12:43,559] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:12:46,699] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:12:46,770] hotels_detail - INFO - Scraped hotel: Staybridge Suites: College Station, rooms: ['1 King Studio Suite', '1 Bedroom Suite 2 Queen', 'STANDARD ROOM'], prices: ['11,692', '13,316', '27,932']
+[2024-08-03 13:12:46,953] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:12:50,720] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:12:50,721] hotels_detail - INFO - Selected hotel card at index: 3
+[2024-08-03 13:12:51,123] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:12:56,157] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:12:56,340] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Bryan - College Station, rooms: ['1 King Standard Walk In Shower', '2 Queen Standard', '1 Bedroom Suite Walk In Shower', 'Standard Room'], prices: ['7,873', '9,463', '10,258', '10,258']
+[2024-08-03 13:12:56,678] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:13:01,919] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:13:01,920] hotels_detail - INFO - Selected hotel card at index: 4
+[2024-08-03 13:13:02,554] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:13:08,652] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:13:08,865] hotels_detail - INFO - Scraped hotel: Candlewood Suites: College Station at University, rooms: ['1 Queen Studio Suite Kitchen', '2 Queen Studio Suite Kitchen', 'Studio Suite', '1 King 1 Bdrm Ste Living Dining Kitchen'], prices: ['7,078', '8,668', '8,668', '10,258']
+[2024-08-03 13:13:09,248] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:13:15,161] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:13:15,161] hotels_detail - INFO - Selected hotel card at index: 5
+[2024-08-03 13:13:16,242] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:13:23,245] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 13:13:23,602] hotels_detail - INFO - Scraped hotel: Holiday Inn & Suites: College Station-Aggieland, rooms: ['1 King Standard', '2 Queen Standard', 'STANDARD ROOM', '2 Queen 1 Bedroom Suite', '1 King 1 Bedroom Suite', 'SUPERIOR ROOM', '1 King Standard Jetted Tub'], prices: ['9,463', '9,463', '9,463', '11,849', '11,849', '11,849', '12,247']
+[2024-08-03 13:13:23,857] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 13:13:31,257] hotels_detail - INFO - Loaded hotel cards, total cards found: 7
+[2024-08-03 13:13:31,257] hotels_detail - INFO - Selected hotel card at index: 6
+[2024-08-03 13:13:31,570] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 13:15:41,306] hotels_detail - ERROR - failed to scrape room page elements
+[2024-08-03 13:15:41,306] hotels_detail - ERROR - error occurred in python script name [/home/runner/hotel-web-scraper/src/scraper/hotels_detail.py] line number [38] error message [Message: 
+]
+[2024-08-03 13:15:41,307] hotels_detail - ERROR - fetch room webpage data unsuccessful
+[2024-08-03 13:15:41,308] save - INFO - succeed to save csv file
+[2024-08-03 13:15:41,783] main - INFO - succeed to quit driver
+[2024-08-03 13:15:41,784] College Station, TX, United States - INFO - scraper finished for College Station, TX, United States

@@ -1,0 +1,116 @@
+[2024-08-03 06:50:37,096] Chattanooga Lovell Airport, TN, United States - INFO - scraper is running for Chattanooga Lovell Airport, TN, United States : ['03/08/2024']
+[2024-08-03 06:50:37,097] date_pairs - INFO - succeed to create date pairs (('03/08/2024', '04/08/2024'),)
+[2024-08-03 06:50:57,240] driver - INFO - succeed to load driver
+[2024-08-03 06:50:58,164] hotels_page - INFO - succeed to enter destination
+[2024-08-03 06:50:59,135] hotels_page - INFO - succeed to enter dates
+[2024-08-03 06:50:59,350] hotels_page - INFO - succeed to search hotels
+[2024-08-03 06:51:04,408] hotels_page - INFO - wait for 5 seconds to load cookie button
+[2024-08-03 06:51:12,033] hotels_page - INFO - succeed to click on cookie button
+[2024-08-03 06:51:12,270] hotels_count - INFO - succeed to calculate total hotels 19
+[2024-08-03 06:51:22,615] hotels_count - INFO - succeed to calculate available hotels 17
+[2024-08-03 06:51:22,668] hotels_detail - INFO - Scrolled to top of the hotels page
+[2024-08-03 06:51:24,681] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:51:24,681] hotels_detail - INFO - Selected hotel card at index: 0
+[2024-08-03 06:51:25,144] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:51:29,115] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:51:29,232] hotels_detail - INFO - Scraped hotel: Staybridge Suites: Chattanooga-Hamilton Place, rooms: ['1 Queen Studio Suite Kitchen Sofa Bed', 'Studio Suite', '1 King 1 Bdrm Suite Living Kitchen Areas', '2 Dbl 1 Bdrm Suite Living Kitchen Areas'], prices: ['10,179', '10,179', '11,769', '16,143']
+[2024-08-03 06:51:29,517] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:51:32,911] hotels_detail - INFO - Loaded hotel cards, total cards found: 10
+[2024-08-03 06:51:32,913] hotels_detail - INFO - Selected hotel card at index: 1
+[2024-08-03 06:51:34,442] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:51:38,421] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:51:38,655] hotels_detail - INFO - Scraped hotel: Candlewood Suites: Chattanooga - East Ridge, rooms: ['1 Queen Studio Suite', '1 King Studio Suite', 'Standard Suite', 'One Bedroom Suite', '2 Queen Studio Suite', 'Premium Suite'], prices: ['8,509', '9,304', '9,304', '10,497', '11,690', '11,690']
+[2024-08-03 06:51:38,871] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:51:43,449] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:51:43,450] hotels_detail - INFO - Selected hotel card at index: 2
+[2024-08-03 06:51:43,944] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:51:48,719] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:51:49,057] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga (East Ridge), rooms: ['1 King Bed Standard', '1 Queen Bed Standard With Sleeper Sofa', '2 Queen Beds Standard', '1 King Bed Suite', 'Standard Room'], prices: ['9,463', '10,258', '10,258', '11,451', '11,451']
+[2024-08-03 06:51:49,359] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:51:58,032] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:51:58,032] hotels_detail - INFO - Selected hotel card at index: 3
+[2024-08-03 06:51:58,443] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:52:04,953] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:52:05,129] hotels_detail - INFO - Scraped hotel: Holiday Inn & Suites: Chattanooga Downtown, rooms: ['Standard Room', '2 Queen Beds Standard', '2 Queen Beds Standard City View'], prices: ['14,235', '15,427', '15,825']
+[2024-08-03 06:52:05,411] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:52:12,822] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:52:12,822] hotels_detail - INFO - Selected hotel card at index: 4
+[2024-08-03 06:52:13,276] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:52:22,773] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:52:22,873] hotels_detail - INFO - Scraped hotel: Hotel Indigo: Chattanooga - Downtown, rooms: ['Standard Room', '1 King Bed 1 Bedroom Suite'], prices: ['18,188', '19,406']
+[2024-08-03 06:52:23,120] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:52:31,061] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:52:31,061] hotels_detail - INFO - Selected hotel card at index: 5
+[2024-08-03 06:52:31,553] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:52:34,762] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:52:35,236] hotels_detail - INFO - Scraped hotel: Staybridge Suites: Chattanooga Dwtn - Conv Ctnr, rooms: ['1 Queen Studio Suite Sofa Bed', '1 King Suite', 'Standard Suite', '2 Double Suite Sofa Bed', '2 Bedroom Suite'], prices: ['14,632', '15,427', '15,427', '16,223', '24,970']
+[2024-08-03 06:52:35,491] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:52:44,762] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:52:44,762] hotels_detail - INFO - Selected hotel card at index: 6
+[2024-08-03 06:52:45,217] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:52:54,979] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:52:55,261] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga-Hixson, rooms: ['1 King Standard', '1 King Suite', '2 Queen Standard', 'Standard Room'], prices: ['10,656', '11,451', '11,849', '14,235']
+[2024-08-03 06:52:55,625] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:53:06,876] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:53:06,877] hotels_detail - INFO - Selected hotel card at index: 7
+[2024-08-03 06:53:07,516] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:53:27,550] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:53:27,660] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Chattanooga Downtown, rooms: ['2 Queen Standard', '1 King Suite'], prices: ['15,427', '16,223']
+[2024-08-03 06:53:28,060] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:54:13,710] hotels_detail - INFO - Loaded hotel cards, total cards found: 17
+[2024-08-03 06:54:13,711] hotels_detail - INFO - Selected hotel card at index: 8
+[2024-08-03 06:54:14,375] hotels_detail - INFO - Clicked on hotel card to view details
+[2024-08-03 06:56:59,267] hotels_detail - INFO - Successfully found hotel name, room names, and prices
+[2024-08-03 06:56:59,556] hotels_detail - INFO - Scraped hotel: Holiday Inn Express & Suites: Ooltewah Springs-Chattanooga, rooms: ['2 Queen Standard', '1 King Suite', '2 Queen Suite', 'STANDARD ROOM'], prices: ['10,258', '13,439', '15,030', '18,211']
+[2024-08-03 06:57:02,167] hotels_detail - INFO - Navigated back to hotel list
+[2024-08-03 06:57:08,944] hotels_detail - INFO - Scrolled to bottom of the hotels page
+[2024-08-03 06:57:19,410] hotels_detail - ERROR - failed to load hotel cards
+[2024-08-03 06:57:19,412] hotels_detail - ERROR - error occurred in python script name [/home/runner/hotel-web-scraper/src/scraper/hotels_detail.py] line number [93] error message [Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome=114.0.5735.106)
+Stacktrace:
+#0 0x58faaf03a4e3 <unknown>
+#1 0x58faaed69b00 <unknown>
+#2 0x58faaed52f42 <unknown>
+#3 0x58faaed519bf <unknown>
+#4 0x58faaed52162 <unknown>
+#5 0x58faaed600d5 <unknown>
+#6 0x58faaed61222 <unknown>
+#7 0x58faaed73e01 <unknown>
+#8 0x58faaeddd470 <unknown>
+#9 0x58faaedc4de3 <unknown>
+#10 0x58faaed9a2dd <unknown>
+#11 0x58faaed9b34e <unknown>
+#12 0x58faaeffa3e4 <unknown>
+#13 0x58faaeffe3d7 <unknown>
+#14 0x58faaf008b20 <unknown>
+#15 0x58faaefff023 <unknown>
+#16 0x58faaefcd1aa <unknown>
+#17 0x58faaf0236b8 <unknown>
+#18 0x58faaf023847 <unknown>
+#19 0x58faaf033243 <unknown>
+#20 0x7c795fb03e24 start_thread
+]
+[2024-08-03 06:57:19,412] hotels_detail - INFO - Selected hotel card at index: 9
+[2024-08-03 06:57:19,751] hotels_detail - ERROR - failed to scrape hotel data
+[2024-08-03 06:57:19,752] hotels_detail - ERROR - error occurred in python script name [/home/runner/hotel-web-scraper/src/scraper/hotels_detail.py] line number [111] error message [Message: invalid session id
+Stacktrace:
+#0 0x58faaf03a4e3 <unknown>
+#1 0x58faaed69b00 <unknown>
+#2 0x58faaed99de4 <unknown>
+#3 0x58faaed9b34e <unknown>
+#4 0x58faaeffa3e4 <unknown>
+#5 0x58faaeffe3d7 <unknown>
+#6 0x58faaf008b20 <unknown>
+#7 0x58faaefff023 <unknown>
+#8 0x58faaefcd1aa <unknown>
+#9 0x58faaf0236b8 <unknown>
+#10 0x58faaf023847 <unknown>
+#11 0x58faaf033243 <unknown>
+#12 0x7c795fb03e24 start_thread
+]
+[2024-08-03 06:57:19,752] hotels_detail - INFO - Scraping completed, total hotels data collected: 35
+[2024-08-03 06:57:19,752] save - INFO - succeed to save csv file
+[2024-08-03 06:57:19,774] main - INFO - succeed to quit driver
+[2024-08-03 06:57:19,776] Chattanooga Lovell Airport, TN, United States - INFO - scraper finished for Chattanooga Lovell Airport, TN, United States
